@@ -1,2 +1,3 @@
 In a world where the only text editor left was vim...
 everyone was suffering from severe depression.
+It was a dark time for all, but we learned to accept.
